@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://archive.ics.uci.edu/dataset/53/iris",
+    "name": "Iris"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/45/heart+disease",
+    "name": "Heart Disease"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/186/wine+quality",
+    "name": "Wine Quality"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/222/bank+marketing",
+    "name": "Bank Marketing"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/320/student+performance",
+    "name": "Student Performance"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+    "name": "Breast Cancer Wisconsin (Diagnostic)"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/2/adult",
+    "name": "Adult"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/352/online+retail",
+    "name": "Online Retail"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/109/wine",
+    "name": "Wine"
+  },
+  {
+    "url": "https://archive.ics.uci.edu/dataset/19/car+evaluation",
+    "name": "Car Evaluation"
+  }
+]

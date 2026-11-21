@@ -1,0 +1,69 @@
+{
+  "url": "https://www.bu.edu/president/boston-university-facts-stats/",
+  "headings": [
+    "BU Facts & Stats",
+    "A quick, by-the-numbers overview of Boston University and our community for fiscal year 2025.",
+    "BU Facts & Stats",
+    "Quick Facts & Stats",
+    "Research Expenditures",
+    "Study Abroad Programs",
+    "Sponsored Research Awards",
+    "Community",
+    "Campus",
+    "Classrooms",
+    "Buildings",
+    "Laboratories",
+    "Libraries",
+    "Campus Area (acres)",
+    "Academics"
+  ],
+  "stats": [
+    {
+      "name": "Research Expenditures",
+      "value": "$ 641 M"
+    },
+    {
+      "name": "Study Abroad Programs",
+      "value": "170 +"
+    },
+    {
+      "name": "Sponsored Research Awards",
+      "value": "$ 574 M"
+    },
+    {
+      "name": "Classrooms",
+      "value": "848"
+    },
+    {
+      "name": "Buildings",
+      "value": "345"
+    },
+    {
+      "name": "Laboratories",
+      "value": "1,547"
+    },
+    {
+      "name": "Libraries",
+      "value": "13"
+    },
+    {
+      "name": "Campus Area (acres)",
+      "value": "141"
+    }
+  ],
+  "facts_and_stats": [
+    "Student Body 38,093",
+    "Living Alumni 460,000 +",
+    "Total Employees 11,532",
+    "Faculty 4,534",
+    "Nondegree Students 1,499",
+    "Graduate & Professional Students 18,341",
+    "Undergraduate Students 18,253",
+    "Study Abroad Programs 170 +",
+    "Average Class Size 30",
+    "Faculty 4,534",
+    "Student/Faculty Ratio 10 : 1",
+    "Schools and Colleges 17",
+    "Programs of Study 300 +"
+  ]
+}
